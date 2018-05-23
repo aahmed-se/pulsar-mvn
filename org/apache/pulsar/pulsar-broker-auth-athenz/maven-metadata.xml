@@ -3,7 +3,7 @@
   <groupId>org.apache.pulsar</groupId>
   <artifactId>pulsar-broker-auth-athenz</artifactId>
   <versioning>
-    <release>1.22.1-streamlio-1</release>
+    <release>1.22.1-streamlio-2</release>
     <versions>
       <version>1.22.0-streamlio-pre1</version>
       <version>1.22.0-streamlio-1</version>
@@ -11,7 +11,8 @@
       <version>1.22.0-streamlio-4</version>
       <version>1.22.0-streamlio-5</version>
       <version>1.22.1-streamlio-1</version>
+      <version>1.22.1-streamlio-2</version>
     </versions>
-    <lastUpdated>20180519211905</lastUpdated>
+    <lastUpdated>20180523175033</lastUpdated>
   </versioning>
 </metadata>
