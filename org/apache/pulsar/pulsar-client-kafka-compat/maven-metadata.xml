@@ -3,7 +3,7 @@
   <groupId>org.apache.pulsar</groupId>
   <artifactId>pulsar-client-kafka-compat</artifactId>
   <versioning>
-    <release>1.22.1-streamlio-2</release>
+    <release>1.22.1-streamlio-3</release>
     <versions>
       <version>1.22.0-streamlio-pre1</version>
       <version>1.22.0-streamlio-1</version>
@@ -12,7 +12,8 @@
       <version>1.22.0-streamlio-5</version>
       <version>1.22.1-streamlio-1</version>
       <version>1.22.1-streamlio-2</version>
+      <version>1.22.1-streamlio-3</version>
     </versions>
-    <lastUpdated>20180523175033</lastUpdated>
+    <lastUpdated>20180707223433</lastUpdated>
   </versioning>
 </metadata>
